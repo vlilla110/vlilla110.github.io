@@ -1,0 +1,91 @@
+
+body {
+    background-image: url("assets/topography.png");
+    background-color: #cccccc;
+    margin: 0%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    color: #ff0099;
+}
+
+h3 {
+    font-family: 'Syne Mono', 'Courier New', Courier, monospace;
+}
+
+h6 {
+    margin-left: 10%;
+    color: darkgray;
+}
+
+.content {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.name {
+    font-family: 'Syne Mono', 'Courier New', Courier, monospace;
+    font-size: 25px;
+    
+    padding-top: 25px;
+}
+
+.navbar {
+    background-color: #333333; 
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    display: flow-root;
+}
+
+.logo {
+    float: left;
+    padding-top: 13px;
+}
+
+.menu {
+    font-size: 18px;
+}
+
+.menu ul {
+    float: right;
+    display: flex; 
+    text-align: right; 
+}
+    
+.menu li {
+    float: right;
+    list-style: none;
+    border-left: 30px solid #333333;
+    text-align: right;
+}
+
+.nav-text {
+    text-align: right;
+}
+
+.article {
+    color: #ff0099;
+    font-family: 'Syne Mono', 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.separator {
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    font-size: 40px;
+}
+
+.description {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: black;
+    font-weight: normal;
+}
